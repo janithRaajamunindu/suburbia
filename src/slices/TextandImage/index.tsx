@@ -9,7 +9,6 @@ import clsx from "clsx";
 import { Bounded } from "@/components/Bounded";
 import { ButtonLink } from "@/components/ButtonLink";
 import { Heading } from "@/components/Heading";
-// import { SlideIn } from "@/components/SlideIn";
 import { ParallaxImage } from "./ParallaxImage";
 import { JSX } from "react";
 import { SlideIn } from "@/components/SlideIn";
