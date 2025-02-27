@@ -8,7 +8,6 @@ import { useGLTF, useTexture } from "@react-three/drei";
 import { GLTF } from "three-stdlib";
 import { useFrame } from "@react-three/fiber";
 import gsap from "gsap";
-import { roughness } from "three/tsl";
 
 type SkateboardProps = {
   wheelTextureURLs: string[];

@@ -1,6 +1,5 @@
 import { FC } from "react";
 import { asImageSrc, Content } from "@prismicio/client";
-import { PrismicNextLink } from "@prismicio/next";
 import {
   PrismicRichText,
   PrismicText,
@@ -12,7 +11,6 @@ import { Heading } from "@/components/Heading";
 import { ButtonLink } from "@/components/ButtonLink";
 import { WideLogo } from "./WideLogo";
 import { TallLogo } from "./TallLogo";
-import { Inter } from "next/font/google";
 import { InteractiveSkateboard } from "./InteractiveSkateboard";
 
 const DEFAULT_DECK_TEXTURE = "/skateboard/Deck.webp";
