@@ -1,4 +1,4 @@
-import { CSSProperties, ElementType, ReactNode } from "react";
+import { CSSProperties, ElementType } from "react";
 import clsx from "clsx";
 
 type BoundedProps = {
